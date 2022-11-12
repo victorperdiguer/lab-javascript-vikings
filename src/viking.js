@@ -12,8 +12,6 @@ class Soldier {
     receiveDamage (damage) {
         this.health -= damage;
     }
-
-
 }
 
 // Viking
